@@ -5,7 +5,7 @@ title: "Tiffany's Page"
 
 This is Tiffany's website
 
-[Link to another page](./another-page.html).
+[Link to a website I made in High School through Weebly.com](https://twhsportfolio.weebly.com/).
 
 There should be whitespace between paragraphs.
 
