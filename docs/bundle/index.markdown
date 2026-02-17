@@ -7,9 +7,9 @@ This is Tiffany's website
 
 [Link to a website I made in High School through Weebly.com](https://twhsportfolio.weebly.com/).
 
-There should be whitespace between paragraphs.
+The above link is a website I created while in High School to showcase different things about my time in school.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+I went to The Academy for Math, Engineering, & Science (AMES) in Salt Lake City, UT. AMES is an early-collge high school that partners with the University of Utah.
 
 # Header 1
 
