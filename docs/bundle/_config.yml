@@ -6,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   also to showcase some of my skills. Thank you to Scott Hadzik for creating the
   base code and assignment.
 logo: "/assets/images/Tiffany.jpg"
-baseurl: "/cs-1030-hadzik-classroom-my-first-website-krazaymonkey" # the subpath of your site
+baseurl: "/my-first-website-krazaymonkey" # the subpath of your site
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
