@@ -5,17 +5,20 @@ title: "Tiffany's Page"
 
 This is Tiffany's website
 
-[Link to another page](./about.markdown)
+[Link to the Jekyll info](./about.markdown)
+
+The below link is a website I created while in High School to showcase different things about my time in school.
 
 [Link to a website I made in High School through Weebly.com](https://twhsportfolio.weebly.com/).
 
-The above link is a website I created while in High School to showcase different things about my time in school.
-
 I went to The Academy for Math, Engineering, & Science (AMES) in Salt Lake City, UT. AMES is an early-collge high school that partners with the University of Utah.
 
-# Header 1
+# About Me
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+  Hi! My name is Tiffany and I'm a student at Weber State University, studying 
+  Computer Science. I've created this website as an assignment for a class and 
+  also to showcase some of my skills. Thank you to Scott Hadzik for creating the
+  base code and assignment.
 
 ## Header 2
 
