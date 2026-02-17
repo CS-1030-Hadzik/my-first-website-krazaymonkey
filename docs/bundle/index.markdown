@@ -5,6 +5,8 @@ title: "Tiffany's Page"
 
 This is Tiffany's website
 
+[Link to another page](./about.markdown)
+
 [Link to a website I made in High School through Weebly.com](https://twhsportfolio.weebly.com/).
 
 The above link is a website I created while in High School to showcase different things about my time in school.
