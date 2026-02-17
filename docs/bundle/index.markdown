@@ -7,12 +7,6 @@ This is Tiffany's website
 
 [Link to the Jekyll info](./about.markdown)
 
-The below link is a website I created while in High School to showcase different things about my time in school.
-
-[Link to a website I made in High School through Weebly.com](https://twhsportfolio.weebly.com/).
-
-I went to The Academy for Math, Engineering, & Science (AMES) in Salt Lake City, UT. AMES is an early-collge high school that partners with the University of Utah.
-
 # About Me
 
   Hi! My name is Tiffany and I'm a student at Weber State University, studying 
@@ -20,9 +14,18 @@ I went to The Academy for Math, Engineering, & Science (AMES) in Salt Lake City,
   also to showcase some of my skills. Thank you to Scott Hadzik for creating the
   base code and assignment.
 
-## Header 2
+## My First Website
 
-> This is a blockquote following a header.
+  The below link is a website I created through Weebly.com while in High School to showcase different things about my time in school.
+
+[Link to my High School Portfolio](https://twhsportfolio.weebly.com/).
+
+I went to The Academy for Math, Engineering, & Science (AMES) in Salt Lake City, UT. AMES is an early-collge high school that partners with the University of Utah.
+
+# Header 2
+
+> Even the darkest night will end and the sun will rise.
+ - Herbert Kretzmer
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
