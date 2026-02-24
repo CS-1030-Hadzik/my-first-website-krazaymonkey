@@ -22,11 +22,12 @@ This is Tiffany's website
 
 I went to The Academy for Math, Engineering, & Science (AMES) in Salt Lake City, UT. AMES is an early-collge high school that partners with the University of Utah.
 
-# Header 2
+# Quotes I Like
 
 > Even the darkest night will end and the sun will rise. - Herbert Kretzmer
->
+> The only appropriate state of the heart is joy... The perfect moment is now. Be glad of it. - Terry Pratchett
 > When something is important enough, you do it even if the odds are not in your favor.
+> Embrace all living creatures and the whole of nature in its beauty. - Albert Einstein
 
 ### Header 3
 
