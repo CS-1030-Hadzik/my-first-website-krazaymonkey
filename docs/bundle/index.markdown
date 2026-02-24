@@ -3,7 +3,7 @@ layout: default
 title: "Tiffany's Page"
 ---
 
-This is Tiffany's website
+This website is a work in progress and will be updated periodically
 
 [Link to the Jekyll info](./about.markdown)
 
@@ -29,12 +29,10 @@ I went to The Academy for Math, Engineering, & Science (AMES) in Salt Lake City,
 *   When something is important enough, you do it even if the odds are not in your favor.
 *   Embrace all living creatures and the whole of nature in its beauty. - Albert Einstein
 
-# Header
+# Programming
 
-> 
-> 
-> 
-> 
+> I've only learned the Python coding language so far.
+> I will be learning Java and C++ soon.
 
 ### Some Python Code I've Written
 
