@@ -24,8 +24,7 @@ I went to The Academy for Math, Engineering, & Science (AMES) in Salt Lake City,
 
 # Header 2
 
-> Even the darkest night will end and the sun will rise.
- - Herbert Kretzmer
+> Even the darkest night will end and the sun will rise. - Herbert Kretzmer
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
