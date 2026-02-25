@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Tiffany's Page"
+title: "Home Page"
 ---
 
 This website is a work in progress and will be updated periodically
@@ -91,12 +91,6 @@ while calculate == 1:
 ```
 * * *
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
 ### Table of Games
 
 | Game Name         | Series?   | Have I completed?          |
@@ -109,6 +103,11 @@ while calculate == 1:
 ### There's a horizontal rule below this.
 
 * * *
+##### Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
 
 ### Here is an unordered list:
 
