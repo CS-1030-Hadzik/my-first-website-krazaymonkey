@@ -20,7 +20,6 @@ This website is a work in progress and will be updated periodically
 
 [Link to my High School Portfolio](https://twhsportfolio.weebly.com/).
 
-I went to The Academy for Math, Engineering, & Science (AMES) in Salt Lake City, UT. AMES is an early-collge high school that partners with the University of Utah.
 
 ### Quotes I Like
 
@@ -29,10 +28,12 @@ I went to The Academy for Math, Engineering, & Science (AMES) in Salt Lake City,
 *   When something is important enough, you do it even if the odds are not in your favor.
 *   Embrace all living creatures and the whole of nature in its beauty. - Albert Einstein
 
+* * *
+
 # Programming
 
 > I've only learned the Python coding language so far.
-> I will be learning Java and C++ soon.
+> I will be learning JavaScript and C++ soon.
 
 ### Some Python Code I've Written
 
@@ -88,7 +89,7 @@ while calculate == 1:
     else:
         print("Thank you for using our calculator! ")
 ```
-
+* * *
 
 ##### Header 5
 
@@ -96,14 +97,14 @@ while calculate == 1:
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+### Table of Games
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Game Name         | Series?   | Have I completed?          |
+|:------------------|:----------|:---------------------------|
+| Mass Effect       | Yes       | All `4` games              |
+| Horizon: Zero Dawn| Yes       | Yes, waiting for 3         |
+| Stardew Valley    | `No`      | Yes, still playing for fun |
+| Fallout 4         | Yes       | `No`, playing now          |
 
 ### There's a horizontal rule below this.
 
