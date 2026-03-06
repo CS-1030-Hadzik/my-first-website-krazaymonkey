@@ -35,6 +35,7 @@ This website is a work in progress and will be updated periodically
 > I've only learned the Python coding language so far.
 > I will be learning JavaScript and C++ soon.
 
+
 ### Some Python Code I've Written
 
  This is part of a game where you try to guess how much candy is in a jar
@@ -100,10 +101,13 @@ while calculate == 1:
 | Stardew Valley    | `No`      | Yes, still playing for fun |
 | Fallout 4         | Yes       | `No`, playing now          |
 
-### There's a horizontal rule below this.
+* * *
+
+
 
 * * *
-##### Header 5
+
+# Extra Stuff to be Ignored While My Website is Updated
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
