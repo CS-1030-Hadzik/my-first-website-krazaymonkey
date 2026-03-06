@@ -30,6 +30,17 @@ This website is a work in progress and will be updated periodically
 
 * * *
 
+### Table of Games
+
+| Game Name         | Series?   | Have I completed?          |
+|:------------------|:----------|:---------------------------|
+| Mass Effect       | Yes       | All `4` games              |
+| Horizon: Zero Dawn| Yes       | Yes, waiting for 3         |
+| Stardew Valley    | `No`      | Yes, still playing for fun |
+| Fallout 4         | Yes       | `No`, playing now          |
+
+* * *
+
 # Programming
 
 > I've only learned the Python coding language so far.
@@ -91,18 +102,6 @@ while calculate == 1:
         print("Thank you for using our calculator! ")
 ```
 * * *
-
-### Table of Games
-
-| Game Name         | Series?   | Have I completed?          |
-|:------------------|:----------|:---------------------------|
-| Mass Effect       | Yes       | All `4` games              |
-| Horizon: Zero Dawn| Yes       | Yes, waiting for 3         |
-| Stardew Valley    | `No`      | Yes, still playing for fun |
-| Fallout 4         | Yes       | `No`, playing now          |
-
-* * *
-
 
 
 * * *
