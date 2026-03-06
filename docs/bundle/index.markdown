@@ -42,8 +42,10 @@ This website is a work in progress and will be updated periodically
 | Portal            | Yes       | Yes, both games are `amazing`|
 
 * * *
+
 >
 >
+
 * * *
 
 # Extra Stuff to be Ignored While My Website is Updated
