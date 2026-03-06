@@ -32,12 +32,12 @@ This website is a work in progress and will be updated periodically
 
 ### Table of Games
 
-| Game Name         | Series?   | Have I completed?          |
-|:------------------|:----------|:---------------------------|
-| Mass Effect       | Yes       | All `4` games              |
-| Horizon: Zero Dawn| Yes       | Yes, waiting for 3         |
-| Stardew Valley    | `No`      | Yes, still playing for fun |
-| Fallout 4         | Yes       | `No`, playing now          |
+| Game Name         | Series?   | Have I completed?            |
+|:------------------|:----------|:---------------------------  |
+| Mass Effect       | Yes       | All `4` games                |
+| Horizon: Zero Dawn| Yes       | Yes, waiting for 3           |
+| Stardew Valley    | `No`      | Yes, still playing for fun   |
+| Portal            | Yes       | Yes, both games are `amazing`|
 
 * * *
 
@@ -45,7 +45,7 @@ This website is a work in progress and will be updated periodically
 
 > I've only learned the Python coding language so far.
 > I will be learning JavaScript and C++ soon.
-
+>
 
 ### Some Python Code I've Written
 
@@ -102,8 +102,8 @@ while calculate == 1:
         print("Thank you for using our calculator! ")
 ```
 * * *
-
-
+>
+>
 * * *
 
 # Extra Stuff to be Ignored While My Website is Updated
